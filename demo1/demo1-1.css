@@ -1,0 +1,59 @@
+/* 
+* @Author: anchen
+* @Date:   2015-02-04 09:19:17
+* @Last Modified by:   anchen
+* @Last Modified time: 2015-02-05 17:42:52
+*/
+
+    .condition_pro{
+        height: 454px;
+        background-color: #48505c;
+        .service_process{
+            width: 928px;
+            margin: 0 auto;
+
+            header h3{
+                color: #fff;
+            }
+            .item{
+                width: 182px;
+                display: inline-block;
+                vertical-align: top;
+                position: relative;
+                color: #c3c5c8;
+                img{
+                    margin: 0 auto;
+                    display: block;
+                }
+                h3{
+                    color: #c3c5c8;
+                    font-size: 16px;
+                    text-align: center;
+                    height: 55px;
+                    line-height: 55px;
+                }
+                ul{
+                    margin-left: 20px;
+                    font-size: 12px;
+
+                    li{
+                        line-height: 24px;
+                    }
+                }
+                
+                p{
+                    text-align: center;
+                    font-size: 12px;
+                    line-height: 24px;
+                    padding: 0 5px;
+                }
+                .dir{
+                    position: absolute;
+                    top: 40px;
+                    right: -14px;
+                }
+            }
+
+        }
+    }
+    
